@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\ChallengePatricio\ChallengePatricio\bin\Debug\ChallengePatricio.exe.config
+C:\Users\Usuario\Desktop\ChallengePatricio\ChallengePatricio\bin\Debug\ChallengePatricio.exe
+C:\Users\Usuario\Desktop\ChallengePatricio\ChallengePatricio\bin\Debug\ChallengePatricio.pdb
+C:\Users\Usuario\Desktop\ChallengePatricio\ChallengePatricio\obj\Debug\ChallengePatricio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ChallengePatricio\ChallengePatricio\obj\Debug\ChallengePatricio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ChallengePatricio\ChallengePatricio\obj\Debug\ChallengePatricio.exe
+C:\Users\Usuario\Desktop\ChallengePatricio\ChallengePatricio\obj\Debug\ChallengePatricio.pdb
+C:\Users\Usuario\Desktop\ChallengePatricio\ChallengePatricio\obj\Debug\ChallengePatricio.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ChallengePatricio\ChallengePatricio\obj\Debug\ChallengePatricio.Recursos.TraduccionIngles.resources
+C:\Users\Usuario\Desktop\ChallengePatricio\ChallengePatricio\obj\Debug\ChallengePatricio.Recursos.TraduccionPortugues.resources
